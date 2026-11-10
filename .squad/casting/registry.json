@@ -1,0 +1,54 @@
+{
+  "schema": "squad-agent-provenance/v1",
+  "schema_version": 1,
+  "revision": 6,
+  "generated_at": "2026-11-10T01:02:54.769Z",
+  "agents": {
+    "lead": {
+      "display_name": "Lead",
+      "persistent_name": "Lead",
+      "role": "Technical Lead",
+      "universe": "cli-cast",
+      "status": "active",
+      "created_at": "2026-11-10T01:02:52.642Z",
+      "updated_at": "2026-11-10T01:02:52.642Z"
+    },
+    "game-systems": {
+      "display_name": "Game Systems",
+      "persistent_name": "Game Systems",
+      "role": "Simulation Engineer",
+      "universe": "cli-cast",
+      "status": "active",
+      "created_at": "2026-11-10T01:02:53.017Z",
+      "updated_at": "2026-11-10T01:02:53.017Z"
+    },
+    "frontend": {
+      "display_name": "Frontend",
+      "persistent_name": "Frontend",
+      "role": "Frontend & Accessibility Engineer",
+      "universe": "cli-cast",
+      "status": "active",
+      "created_at": "2026-11-10T01:02:53.597Z",
+      "updated_at": "2026-11-10T01:02:53.597Z"
+    },
+    "level-designer": {
+      "display_name": "Level Designer",
+      "persistent_name": "Level Designer",
+      "role": "Puzzle & Level Editor Designer",
+      "universe": "cli-cast",
+      "status": "active",
+      "created_at": "2026-11-10T01:02:54.034Z",
+      "updated_at": "2026-11-10T01:02:54.034Z"
+    },
+    "tester": {
+      "display_name": "Tester",
+      "persistent_name": "Tester",
+      "role": "Test Engineer",
+      "universe": "cli-cast",
+      "status": "active",
+      "created_at": "2026-11-10T01:02:54.769Z",
+      "updated_at": "2026-11-10T01:02:54.769Z"
+    }
+  },
+  "transaction_id": "75bee24a-c555-432c-b20b-fa72920d38d7"
+}
